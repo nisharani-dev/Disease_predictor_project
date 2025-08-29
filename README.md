@@ -4,7 +4,7 @@ This project was developed as part of a bootcamp to build a Disease Prediction S
 
 📊 Project Workflow
 
-Data Preprocessing
+---Data Preprocessing
 
 Cleaned and prepared dataset with labeled diseases and corresponding symptoms.
 
@@ -12,7 +12,7 @@ Encoded categorical values into numerical form.
 
 Split dataset into training and testing sets for model evaluation.
 
-Model Design
+---Model Design
 
 Implemented machine learning models for disease classification.
 
@@ -20,7 +20,7 @@ Used algorithms like Decision Tree, Random Forest, and Naïve Bayes.
 
 Selected the best-performing model based on accuracy and consistency.
 
-Evaluation
+---Evaluation
 
 Models were evaluated using accuracy, confusion matrix, and classification report.
 
@@ -28,7 +28,7 @@ Random Forest achieved ~97–99% accuracy (best performer).
 
 Predictions were also tested on unseen test data provided during the bootcamp.
 
-Visualizations
+---Visualizations
 
 Plotted confusion matrix for performance visualization.
 
@@ -36,7 +36,7 @@ Displayed feature importance (symptoms contributing most to predictions).
 
 Accuracy comparison between models shown through bar charts.
 
-Test Cases / Predictions
+---Test Cases / Predictions
 
 Sample data from the bootcamp input symptoms were tested.
 
