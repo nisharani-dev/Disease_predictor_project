@@ -24,7 +24,7 @@ Selected the best-performing model based on accuracy and consistency.
 
 Models were evaluated using accuracy, confusion matrix, and classification report.
 
-Random Forest achieved ~97–99% accuracy (best performer).
+Random Forest achieved ~88% accuracy (best)....Logistic Regression Accuracy: 84%
 
 Predictions were also tested on unseen test data provided during the bootcamp.
 
